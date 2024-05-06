@@ -8,15 +8,21 @@
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    <router-link class="nav-link" to="/">Home</router-link>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Features</a>
+                    <router-link class="nav-link" to="/servicio">Servicio</router-link>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Pricing</a>
+                    <router-link class="nav-link" to="/gestion">Gestión</router-link>
                 </li>
-                <li class="nav-item dropdown">
+                <li class="nav-item">
+                    <router-link class="nav-link" to="/logistica">Logistica</router-link>
+                </li>
+                <li class="nav-item">
+                    <router-link class="nav-link" to="/contacto">Contacto</router-link>
+                </li>
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
                         aria-haspopup="true" aria-expanded="false">
                         Dropdown link
@@ -26,7 +32,7 @@
                         <a class="dropdown-item" href="#">Another action</a>
                         <a class="dropdown-item" href="#">Something else here</a>
                     </div>
-                </li>
+                </li> -->
             </ul>
         </div>
     </nav>
