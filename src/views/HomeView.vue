@@ -3,7 +3,9 @@
     <CarrouselComp/>
     
     <div>
-      FlexCamp es una solución pionera en alojamiento temporal, especialmente diseñada para industrias como la minería, la construcción y situaciones de emergencia. Nuestro enfoque se centra en ofrecer campamentos de casas móviles que combinan eficiencia operativa con responsabilidad ecológica. Concebidos para adaptarse rápidamente a variadas exigencias operativas, nuestros campamentos destacan por su capacidad de instalación veloz y autónoma de procesos burocráticos extensos.
+      <h1>Bienvenido a FlexCamp</h1>
+      <p>FlexCamp es una solución pionera en alojamiento temporal, especialmente diseñada para industrias como la minería, la construcción y situaciones de emergencia. Nuestro enfoque se centra en ofrecer campamentos de casas móviles que combinan eficiencia operativa con responsabilidad ecológica. Concebidos para adaptarse rápidamente a variadas exigencias operativas, nuestros campamentos destacan por su capacidad de instalación veloz y autónoma de procesos burocráticos extensos.</p>
+      
 
     </div>
   </div>
